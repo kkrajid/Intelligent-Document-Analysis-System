@@ -107,4 +107,4 @@ Contributions are welcome! Please submit pull requests or open issues for bug re
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, contact [your-email@example.com] or open an issue on the repository.
+For questions or support, contact kkrajid@gmail.com or open an issue on the repository.
