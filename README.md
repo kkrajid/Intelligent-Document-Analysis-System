@@ -21,8 +21,8 @@ The **Intelligent Document Analysis System** is a Streamlit-based web applicatio
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/kkrajid/Intelligent-Document-Analysis-System.git
+   cd Intelligent-Document-Analysis-System
    ```
 
 2. **Install Dependencies**:
@@ -55,7 +55,7 @@ The **Intelligent Document Analysis System** is a Streamlit-based web applicatio
    ```bash
    streamlit run chatpdf1.py
    ```
-   Replace `chatpdf1.py` with the name of your Python script containing the provided code.
+  
 
 2. **Upload Documents**:
    - Navigate to the sidebar and upload PDF, DOCX, or TXT files (max 25MB each).
